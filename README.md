@@ -5,6 +5,7 @@ This GitHub repository is dedicated to the Kaggle competition focused on predict
 
 ### Evaluation 
 Metric: Root Mean Square Percentage Error (RMSPE)
+
 Goal: Minimize RMSPE for accurate volatility predictions.
 
 
