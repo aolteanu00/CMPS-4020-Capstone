@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+joblib
+optuna
+pyarrow
+lightgbm
